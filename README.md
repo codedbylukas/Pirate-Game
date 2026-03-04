@@ -61,4 +61,4 @@ Built using:
 
 ## Dependencies
 
-No external dependencies required. The game runs purely on vanilla JavaScript.
+No external dependencies required. The game runs purely on JavaScript.
